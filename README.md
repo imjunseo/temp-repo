@@ -1,5 +1,6 @@
-# GitHub
-Get started using GitHub.
-People can use GitHub to build some of technologies in the world. Whether people are visuallzing data or building a new game, there's a whole community and set of tools on GitHub that can help them do it even better.
+# GitHub 시작 연습
 
+GitHub에 저장소를 만들고 README와 라이선스 파일을 관리하는 방법을 익힌 연습 기록입니다.
 
+- [README 변경 이력](https://github.com/imjunseo/temp-repo/commits/main/README.md)
+- [MIT 라이선스](LICENSE)
